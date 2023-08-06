@@ -1,0 +1,177 @@
+Developed "E-Commerce Website" using (JAM Stack Serverless and Stripe)
+🔗 Live Site: https://buyit-shoes.netlify.app/
+👨‍💻 Code: https://github.com/developer-junaid/Buy-It
+📽️ Video (Demo): https://youtu.be/LiXNgtxwBEk
+Technologies used :
+-------------------------
+- HTML
+- CSS
+- Tailwindcss
+- GraphQl
+- GatsbyJs
+- Netlify Serverless Functions
+- Stripe ( Payments and DB)
+Features:
+------------
+* Fully Responsive
+* Fully Optimized and Fast Loading
+* Lighthouse score (99% Performance)
+#Hashtags
+#react #reactjs #reactdeveloper #JAMstack #Serverless #fullstackdeveloper #FullStackWebDevelopment #fullstack  #website #webdevelopment #100DaysOfCode #100DaysOfCodeChallenge #100daysofcoding
+
+
+🚀 Just completed my first React project! 🎉 
+
+Here are the key concepts I used:
+
+𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬: Created reusable components like `Card` and `Heading` to organize and display content.
+
+𝐒𝐭𝐚𝐭𝐞: Managed state to change and update data dynamically without refreshing the page.
+
+𝐒𝐭𝐲𝐥𝐢𝐧𝐠: Utilized CSS and Bootstrap classes to style the components and make them visually appealing.
+
+𝐏𝐫𝐨𝐩𝐬: Passed data between parent and child components using props to customize content and appearance.
+
+𝐉𝐒𝐗: Combined HTML-like syntax with JavaScript to create dynamic user interfaces.
+
+𝐑𝐞𝐚𝐜𝐭𝐃𝐎𝐌: Rendered components to the DOM using `ReactDOM.render()`.
+
+Excited to continue my React journey! 🚀👩‍💻 hashtag#React hashtag#JavaScript hashtag#FrontendDevelopment hashtag#Coding hashtag#WebDevelopment
+
+
+
+🚀 Just completed Responsive-Portfolio Website Using HTML5 & CSS3 🎉 
+
+Here are the key concepts I used:
+
+𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬: Created reusable components like `Card` and `Heading` to organize and display content.
+
+𝐒𝐭𝐚𝐭𝐞: Managed state to change and update data dynamically without refreshing the page.
+
+𝐒𝐭𝐲𝐥𝐢𝐧𝐠: Utilized CSS and Bootstrap classes to style the components and make them visually appealing.
+
+𝐏𝐫𝐨𝐩𝐬: Passed data between parent and child components using props to customize content and appearance.
+
+𝐉𝐒𝐗: Combined HTML-like syntax with JavaScript to create dynamic user interfaces.
+
+𝐑𝐞𝐚𝐜𝐭𝐃𝐎𝐌: Rendered components to the DOM using `ReactDOM.render()`.
+
+Excited to continue my React journey! 🚀👩‍💻 hashtag#React hashtag#JavaScript hashtag#FrontendDevelopment hashtag#Coding hashtag#WebDevelopment
+
+
+
+Learned and Developed "Amazon Data Scraping API" using NodeJs, ExpressJs, and ScraperAPI. And how to build a Startup/Business from selling API on RapidAPI 💵
+You can also learn 👇
+- JavaScript Mastery: https://youtu.be/be9sHQ7xqo0
+My Links: 
+-----
+- Live API : https://junaid-amazon-scraper.herokuapp.com/
+- Code : https://github.com/developer-junaid/Amazon-Scraper-API
+- Video (Demo) : https://youtu.be/A6u_Wg5pgcE
+Learnings:
+-----
+- Make "Amazon Scraper API" using node and expressJs
+- ScraperAPI
+- Deploy API on Heroku
+- Make Startup/Business from API by selling it on RapidAPI
+#API #scraping #datascraping #Amazon #amazonscrapingapi #amazondatascraping #nodejs #expressJs #RapidAPI
+
+
+
+The world is moving towards Web-3, How can I stay behind as a Tech lover 😉❤ ₿
+Took some time and learned web3 technologies and how to develop web3 + NFT listing applications using ReactJs. 
+Link: https://react-nft-project.netlify.app/  (Project)
+Code: https://github.com/developer-junaid/React-NFT-App
+Learned from: https://youtu.be/hhZtiytNaBQ (Clever Programmer)
+Tech Stack (Updated) :
+-----------------
+* Thirdweb ( To mint NFTs and list on opensea )
+* Metamask Wallet ( To connect to Thirdweb to mint NFTs)
+* Opensea API ( To fetch minted NFTs and List on Frontend)
+* React Js ( To Display NFTs on Frontend)
+* Netlify ( To deploy the app)
+NOTE: This is not mobile responsive, and fully functional. (The goal was to mint, list, fetch and display NFTs)
+#web3 #web3developer #NFTs #nftcollectibles #NFTDevelopment #nftlistingwebsite #reactdeveloper #reactweb3 #blockchain #OpenSeaNFT #openseaio #openseacollection #ThirdWeb #Metamask
+
+
+
+Learned and Developed a "🔗 Cryptocurrency transfer website" using ReactJs, Solidity, and Hardhat. ‍
+Learned from: 👇
+- JavaScript Mastery: https://youtu.be/Wn_Kb3MR_cU
+🎯 Features: 
+------------
+* Transfer "Ethereum" to any account with a message and a Gif
+* That transaction will be stored in the blockchain of the "Ropsten test network" (It's on the test net otherwise it will cost real eth)
+* You have to have Metamask extension installed to send eth
+🔗 Links: 
+-----
+- Live App 👉 https://transferkrypt.netlify.app/
+- Code 👉 https://github.com/developer-junaid/Transfer-Krypt
+💡 Learnings:
+------------------
+- Solidity (To write Smart contracts)
+- Hardhat (To run solidity locally in dev environment)
+- Waffle (To build smart contract tests)
+- Alchemy (To deploy a smart contract on the blockchain)
+- Giphy (for gifs)
+- ethers (To connect with a smart contract using ReactJs)
+- Tailwind CSS (Styling)
+- Vite (Package manager for building and creating frontend)
+- Metamask (To send ethereum)
+#web3developer #web3 #EthereumBlockchain #ethereumdapp #dApps #blockchaindevelopment #cryptocurrency #crypto #tailwind
+
+
+Hello friends, It's been a while since I uploaded a project. So, I'm back with another one.
+SvelteJs and Sveltekit are gaining popularity like react was, so I took out some time to learn them. Developed  "🔗 Movies DB Web Application" using SvelteKit and TMDB API. ‍
+Learned from: 👇
+- Dev Ed: https://youtu.be/ydR_M0fw9Xc
+🎯 Features: 
+------------
+* View Movies
+* Search Movies
+🔗 Links: 
+---------
+- Live App 👉 https://svelte-movies-app.netlify.app/
+- Code 👉 https://github.com/developer-junaid/Svelte-Movies-App
+💡 Technologies Used:
+-------------------------------
+- HTML
+- CSS
+- SvelteJs
+- SvelteKit
+- TMDB Movies API
+*NOTE: There's an issue when redirecting from details page to index page, it works on development, but doesn't on production, so you'll have to refresh the page to make it work*
+#webdevelopment #TMDB #SVELTE #sveltekit #svelt #100DaysOfCode #100daysofcodechallenge #100daysofpractice
+
+
+
+
+
+
+
+Today I Create a Weather App
+
+🚀 Just completed Responsive-Portfolio Website Using HTML5 & CSS3 🎉 
+
+ This modern website showcases a stunning portfolio with seamless responsiveness, ensuring that it looks flawless on all devices, from large desktop screens to mobile phones.
+
+
+Features 👇
+
+ ✅ Responsive Design:
+ ✅Responsive Design: Optimal user experience on all screens.
+
+ ✅ Engaging Portfolio Showcase: Highlight your work with captivating visuals.
+ ✅ Responsive design to ensure a seamless experience across devices.
+
+Technologies Used 👇
+
+ ✅ HTML, CSS, and JavaScript for the front-end user interface.
+
+Link: https://lnkd.in/dPpq3qiA
+Developement Bhi Jrure Hai Bhai ❤
+Happy Learning 💌
+
+hashtag#linkedin hashtag#learning hashtag#future hashtag#opportunities hashtag#recruiters hashtag#tech hashtag#community
+hashtag#github hashtag#geeksforgeeks hashtag#achivement hashtag#motivation hashtag#codestudio hashtag#codechef hashtag#codingninjas hashtag#problemoftheday hashtag#500daysofcodechallenge hashtag#leetcode hashtag#400daysofcode hashtag#coding hashtag#dsa hashtag#500daysofcode hashtag#datastructuresandalgorithms hashtag#problemsolvingskills hashtag#problemsolving hashtag#interview hashtag#interviewpreparation hashtag#consistency hashtag#consistencymatters hashtag#connections hashtag#hiring hashtag#hardwork hashtag#leetcode hashtag#leetcode2023 hashtag#leetcoder hashtag#problemoftheday hashtag#linkdinfamily hashtag#interviewbit hashtag#hardwork hashtag#community hashtag#people hashtag#linkedin hashtag#complexity hashtag#learning hashtag#codeforces
+
